@@ -2,8 +2,10 @@
 
 **Made From https://github.com/bucanero/apollo-ps3 using python, thank you.**
 
+**MADE USING Pyinstaller executables, SO IT IS NOT A VIRUS, SCANNED WITH VIRUS TOTAL AND GAVE 5/72 DON'T KNOW WHY BUT YOU CAN READ  THE ORIGINAL CODE OR TURN IT INTO EXE YOURSELF, ITS NOT MALICIOUS, ALSO YOU CAN ASK ANY AI AND IT'LL SAY THAT IT IS NOT A MALEWARE OR A VIRUS FILE**
 
-Ive always wanted to make this... but now as its 12/17/2025 i finished the project of the ui.
+
+ 12/17/2025 i finished the project of the ui.
 
 i've been working on this for 2 days or 3, anyways all the credits goes to apollo savetool original makers
 
@@ -20,6 +22,7 @@ have a great day..
 
 
 -------------------
+
 
 
 
